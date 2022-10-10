@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ✨I am a passionate, quality-oriented and aspiring Data Scientist. I am always more than ready to do anything and never back off to solve any problem. Always willing to innovates the new things which can improve the existing technology.👩‍💻
+[![@bharati's Holopin board](https://holopin.io/api/user/board?user=bharati)](https://holopin.io/@bharati)
